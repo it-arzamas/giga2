@@ -1,2 +1,2 @@
 #!/opt/bin/sh
-echo "help me"
+echo "test"
